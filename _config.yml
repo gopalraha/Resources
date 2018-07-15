@@ -1,4 +1,11 @@
-name":"TuxWP : A SysAdmin Site"
+# File: _config.yml
+webrick:
+  headers:
+    My-Header: TuxWP : A SysAdmin Site
+    My-Other-Header: My-Other-Value
+
+
+name: TuxWP : A SysAdmin Site
 
 theme: jekyll-theme-hacker
 
