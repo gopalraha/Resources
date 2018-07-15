@@ -1,1 +1,9 @@
 theme: jekyll-theme-hacker
+
+url: "https://www.tuxwp.com"
+baseurl: "https://www.tuxwp.com"
+
+title: TuxWP : A SysAdmin Site
+description: Your next awesome SysAdmin tasks
+
+
