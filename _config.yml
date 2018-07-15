@@ -6,4 +6,10 @@ baseurl: "https://www.tuxwp.com"
 title: TuxWP : A SysAdmin Site
 description: Your next awesome SysAdmin tasks
 
-
+navbar-links:
+  About Me: "TuxWP : A SysAdmin Site"
+  Resources:
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
+    - GitHub Pages: "https://pages.github.com/"
+  Author's home: "https://www.tuxwp.com"
