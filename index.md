@@ -1,7 +1,7 @@
-## Welcome to TuxWP Site
+## Welcome to TuxWP WebSite
 
 ```markdown
-Site will comming soon
+This site will comming soon
 ```
 
 ### Here is a great SysAdmin resources
