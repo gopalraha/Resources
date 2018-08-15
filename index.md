@@ -37,6 +37,7 @@ This site will comming soon
  -	[Install CentOS 7.0 Latest Linux Server with Screenshots](https://www.techbrown.com/install-centos-7-0-latest-linux-server-screenshots.shtml)
  -	[How to Install Cinnamon 2.6 on Fedora 22 / CentOS 7 / RHEL 7](https://www.techbrown.com/install-cinnamon-2-6-on-fedora-22-centos-7-rhel-7.shtml)
  -	[How to Fix Dim Screen and Dull Display on Windows 10](https://www.techbrown.com/fix-dim-screen-dull-display-windows-10.shtml)
+  -	[How to Synchronize Time and Timezone on CentOS 7 / RHEL 7](https://www.techbrown.com/synchronize-time-timezone-centos-rhel.shtml)
  -	[Fix Modem Manager is not Working on CentOS 7 / RHEL 7](https://www.techbrown.com/fix-modem-manager-is-not-working-centos-rhel.shtml)
  -	[Fix WiFi ON OFF Starting Problem on Windows 8.1 / 8](https://www.techbrown.com/fix-wifi-on-off-starting-problem-on-windows-8-1-8.shtml)
  -	[How to Format Pen Drive / USB Drive Using Linux Terminal](https://www.techbrown.com/format-pen-drive-usb-drive-using-linux-terminal.shtml)
