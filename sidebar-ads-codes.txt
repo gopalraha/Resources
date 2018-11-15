@@ -1,0 +1,1 @@
+<script type="text/javascript" language="javascript" src="https://live.sekindo.com/live/liveView.php?s=97014&cbuster=%%CACHEBUSTER%%&pubUrl=%%REFERRER_URL_ESC%%&x=%%WIDTH%%&y=%%HEIGHT%%&vp_content=plembede6epyonwrzlx"></script>
